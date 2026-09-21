@@ -5,8 +5,18 @@
 ## Install
 
 ```bash
-pip install funquiz
+uv sync
 ```
+
+## 最小示例
+
+```python
+import funquiz
+
+print(funquiz.__version__)
+```
+
+输出：`0.0.1`。运行 `uv run pytest` 验证安装内容。
 
 ---
 

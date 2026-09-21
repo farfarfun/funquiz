@@ -200,6 +200,13 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+*.db
+*.rar
+.run/
+logs/
+.idea/
+.vscode/
+node_modules/
 
 # Marimo
 marimo/_static/
