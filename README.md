@@ -2,7 +2,15 @@
 
 占位仓库，尚无实际功能代码。发布这个空壳版本只是为了在 PyPI 上保留 `funquiz` 这个包名，避免被无关项目抢注；具体功能会在之后陆续补充。
 
-## Install
+## 安装
+
+```bash
+uv add funquiz
+# 或
+pip install funquiz
+```
+
+克隆仓库参与开发时使用：
 
 ```bash
 uv sync

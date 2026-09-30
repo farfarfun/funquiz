@@ -1,7 +1,7 @@
 [project]
 name = "funquiz"
 version = "0.0.1"
-description = "funquiz"
+description = "farfarfun 预留的测验工具包占位版本，当前仅提供包元数据"
 readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"
@@ -25,6 +25,7 @@ name = "farfarfun"
 email = "farfarfun@qq.com"
 
 [project.urls]
+Homepage = "https://pypi.org/project/funquiz/"
 Organization = "https://github.com/farfarfun"
 Repository = "https://github.com/farfarfun/funquiz"
 Releases = "https://github.com/farfarfun/funquiz/releases"
